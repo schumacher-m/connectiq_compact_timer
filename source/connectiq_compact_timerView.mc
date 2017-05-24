@@ -23,11 +23,11 @@ class connectiq_compact_timerView extends Ui.DataField {
         currentTimeHeaderLabel.setText(Rez.Strings.currentTimeHeaderLabel);
         elapsedTimeHeaderLabel.setText(Rez.Strings.elapsedTimeHeaderLabel);
 
-        elapsedTimeHeaderLabel.locY = elapsedTimeHeaderLabel.locY - 34;
-        elapsedTimeLabel.locY = elapsedTimeLabel.locY - 15;
+        elapsedTimeHeaderLabel.locY = elapsedTimeHeaderLabel.locY - 25;
+        elapsedTimeLabel.locY = elapsedTimeLabel.locY - 9;
 
-        currentTimeHeaderLabel.locY = currentTimeHeaderLabel.locY + 3;
-        currentTimeLabel.locY = currentTimeLabel.locY + 23;
+        currentTimeHeaderLabel.locY = currentTimeHeaderLabel.locY + 8;
+        currentTimeLabel.locY = currentTimeLabel.locY + 25;
 
         return true;
     }

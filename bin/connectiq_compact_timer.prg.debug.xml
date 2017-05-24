@@ -121,7 +121,6 @@
 <entry endPc="268436557" name="elapsedTimeLabel" stackId="2" startPc="268435862"/>
 <entry endPc="268436557" name="seconds" stackId="6" startPc="268435862"/>
 <entry endPc="268436603" name="dictionary" stackId="1" startPc="268436562"/>
-<entry endPc="268437962" name="rez_cmp_local_custom_drawable_XRKDCR6MONXSEHAI3WF3" stackId="2" startPc="268436737"/>
 <entry endPc="268437962" name="rez_cmp_local_bitmap_currentTimeLabel_fontHeight" stackId="10" startPc="268436737"/>
 <entry endPc="268437962" name="rez_cmp_local_bitmap_currentTimeHeaderLabel_fontHeight" stackId="8" startPc="268436737"/>
 <entry endPc="268437962" name="rez_cmp_local_bitmap_elapsedTimeHeaderLabel" stackId="3" startPc="268436737"/>
@@ -129,6 +128,7 @@
 <entry endPc="268437962" name="rez_cmp_local_bitmap_currentTimeHeaderLabel" stackId="7" startPc="268436737"/>
 <entry endPc="268437962" name="rez_cmp_local_bitmap_currentTimeLabel" stackId="9" startPc="268436737"/>
 <entry endPc="268437962" name="rez_cmp_local_bitmap_elapsedTimeHeaderLabel_fontHeight" stackId="4" startPc="268436737"/>
+<entry endPc="268437962" name="rez_cmp_local_custom_drawable_H8YCGIABBCN8VAA3QU7K" stackId="2" startPc="268436737"/>
 <entry endPc="268437962" name="rez_cmp_local_bitmap_elapsedTimeLabel" stackId="5" startPc="268436737"/>
 </localVars>
 <annotations/>
