@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="12" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="13" pc="268435491" symbol="initialize"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="16" pc="268435515" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="17" pc="268435519" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="18" pc="268435562" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="19" pc="268435586" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="20" pc="268435610" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="21" pc="268435634" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="23" pc="268435658" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="24" pc="268435690" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="26" pc="268435722" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="27" pc="268435744" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="29" pc="268435766" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="30" pc="268435788" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="32" pc="268435810" symbol="onLayout"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="35" pc="268435814" symbol="compute"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="36" pc="268435818" symbol="compute"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="37" pc="268435834" symbol="compute"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="40" pc="268435858" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="41" pc="268435862" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="42" pc="268435905" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="43" pc="268435929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="44" pc="268435953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="45" pc="268435977" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="47" pc="268436001" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="48" pc="268436028" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="49" pc="268436052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="50" pc="268436076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="51" pc="268436100" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="53" pc="268436127" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="54" pc="268436151" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="55" pc="268436175" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="56" pc="268436199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="59" pc="268436223" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="60" pc="268436245" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="61" pc="268436267" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="63" pc="268436289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="66" pc="268436395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerView.mc" lineNum="69" pc="268436537" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerBackground.mc" lineNum="8" pc="268436558" symbol="initialize"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerBackground.mc" lineNum="9" pc="268436562" symbol="initialize"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerBackground.mc" lineNum="13" pc="268436583" symbol="initialize"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerBackground.mc" lineNum="16" pc="268436604" symbol="setColor"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerBackground.mc" lineNum="17" pc="268436608" symbol="setColor"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerBackground.mc" lineNum="20" pc="268436619" symbol="draw"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerBackground.mc" lineNum="21" pc="268436623" symbol="draw"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerBackground.mc" lineNum="22" pc="268436655" symbol="draw"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerApp.mc" lineNum="4" pc="268436668" symbol="initialize"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerApp.mc" lineNum="5" pc="268436672" symbol="initialize"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerApp.mc" lineNum="8" pc="268436691" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Michael\\OneDrive\\Documents\\eclipse_workspace\\connectiq_compact_timer\\source\\connectiq_compact_timerApp.mc" lineNum="9" pc="268436695" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268436733" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="22" pc="268436737" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="23" pc="268436761" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="24" pc="268436924" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268436949" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268437001" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268437047" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268437210" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268437235" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="30" pc="268437287" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268437333" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268437496" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268437521" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268437573" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="35" pc="268437619" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268437782" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268437807" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268437859" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268437905" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="15" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389130" symbol="mColor"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry field="true" id="17" symbol="currentTimeHeaderLabel"/>
+<entry id="8" object="true" symbol="connectiq_compact_timerView"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8388732" symbol="elapsedTime"/>
+<entry id="11" symbol="currentTime"/>
+<entry id="10" object="true" symbol="connectiq_compact_timerApp"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="16" symbol="elapsedTimeHeaderLabel"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435813" name="currentTimeLabel" stackId="3" startPc="268435519"/>
+<entry endPc="268435813" name="currentTimeHeaderLabel" stackId="4" startPc="268435519"/>
+<entry endPc="268435813" name="elapsedTimeHeaderLabel" stackId="5" startPc="268435519"/>
+<entry endPc="268435813" name="elapsedTimeLabel" stackId="2" startPc="268435519"/>
+<entry endPc="268436557" name="currentTimeLabel" stackId="3" startPc="268435862"/>
+<entry endPc="268436557" name="hours" stackId="8" startPc="268435862"/>
+<entry endPc="268436557" name="currentTimeHeaderLabel" stackId="5" startPc="268435862"/>
+<entry endPc="268436557" name="minutes" stackId="7" startPc="268435862"/>
+<entry endPc="268436557" name="elapsedTimeHeaderLabel" stackId="4" startPc="268435862"/>
+<entry endPc="268436557" name="elapsedTimeLabel" stackId="2" startPc="268435862"/>
+<entry endPc="268436557" name="seconds" stackId="6" startPc="268435862"/>
+<entry endPc="268436603" name="dictionary" stackId="1" startPc="268436562"/>
+<entry endPc="268437962" name="rez_cmp_local_custom_drawable_XRKDCR6MONXSEHAI3WF3" stackId="2" startPc="268436737"/>
+<entry endPc="268437962" name="rez_cmp_local_bitmap_currentTimeLabel_fontHeight" stackId="10" startPc="268436737"/>
+<entry endPc="268437962" name="rez_cmp_local_bitmap_currentTimeHeaderLabel_fontHeight" stackId="8" startPc="268436737"/>
+<entry endPc="268437962" name="rez_cmp_local_bitmap_elapsedTimeHeaderLabel" stackId="3" startPc="268436737"/>
+<entry endPc="268437962" name="rez_cmp_local_bitmap_elapsedTimeLabel_fontHeight" stackId="6" startPc="268436737"/>
+<entry endPc="268437962" name="rez_cmp_local_bitmap_currentTimeHeaderLabel" stackId="7" startPc="268436737"/>
+<entry endPc="268437962" name="rez_cmp_local_bitmap_currentTimeLabel" stackId="9" startPc="268436737"/>
+<entry endPc="268437962" name="rez_cmp_local_bitmap_elapsedTimeHeaderLabel_fontHeight" stackId="4" startPc="268436737"/>
+<entry endPc="268437962" name="rez_cmp_local_bitmap_elapsedTimeLabel" stackId="5" startPc="268436737"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="connectiq_compact_timerView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="connectiq_compact_timerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="connectiq_compact_timerView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="connectiq_compact_timerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="connectiq_compact_timerApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="connectiq_compact_timerApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

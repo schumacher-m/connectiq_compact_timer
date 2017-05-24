@@ -1,0 +1,5 @@
+<strings>
+    <string id="AppName">Compact Timer</string>
+    <string id="elapsedTimeHeaderLabel">Elapsed Time</string>
+    <string id="currentTimeHeaderLabel">Current Time</string>
+</strings>
